@@ -5,7 +5,7 @@
 - **Full Name:** Neo Maleka
 - **Student Number:** ST10507580
 - **Module:** WEDE5020 – Web Development
-- **Group:**1
+- **Group:** 1
 - **Year:** 2026
 
 ## Project Overview
